@@ -1,41 +1,17 @@
+Olá, eu sou João Pedro Riccio de Carvalho 👋
 
+👨‍💻 Sobre Mim
 
+Me chamo João Carvalho, tenho 23 anos e sou estudante de tecnologia no UPCA.
 
+Construí minha carreira profissional desde os 17 anos trabalhando na área de vendas, mas sempre tive um forte interesse em tecnologia. Agora, estou dedicando meus estudos e esforços para migrar completamente para a área tech, unindo minha experiência em comunicação, negociação e negócios com o desenvolvimento de software! 🚀
 
-# Foobar
+📚 Atualmente estudando tecnologia no UPCA.
 
-Foobar is a Python library for dealing with word pluralization.
+💼 Background: Vendas / Transição de Carreira para TI.
 
-## Installation
+🌱 Atualmente aprendendo: Linguagens e tecnologias que você estuda (ex: Python, JavaScript, HTML, CSS)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+🎯 Objetivo: Minha primeira oportunidade como desenvolvedor júnior ou estágio em tecnologia.
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+📫 Como falar comigo: joaoriccio/linkedin | joaopedroriccio@gmail.com

@@ -10,7 +10,7 @@ Construí minha carreira profissional desde os 17 anos trabalhando na área de v
 
 💼 Background: Vendas / Transição de Carreira para TI.
 
-🌱 Atualmente aprendendo: Linguagens e tecnologias que você estuda (ex: Python, JavaScript, HTML, CSS)
+🌱 Atualmente aprendendo: Python, JavaScript, HTML, CSS e C#
 
 🎯 Objetivo: Minha primeira oportunidade como desenvolvedor júnior ou estágio em tecnologia.
 
